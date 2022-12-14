@@ -11,3 +11,86 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.heading{
+  width: 100%;
+  background-color: rgb(2, 235, 176);
+  color: #444;
+  padding: 0px 75px;
+}
+@media(min-width:300px){
+  textarea{
+    width: 250px;
+    height: 300px;
+    font-size: 1rem;
+  }
+}
+@media(min-width:375px){
+  textarea{
+    width: 250px;
+    height: 300px;
+    font-size:1rem;
+  }
+}
+@media(min-width:412px){
+  textarea{
+    width: 300px;
+    height: 350px;
+    font-size: 1rem;
+  }
+}
+@media(min-width:512px){
+  textarea{
+    width: 450px;
+    height: 400px;
+    font-size: 1rem;
+  }
+}
+@media(min-width:625px){
+  textarea{
+    width: 600px;
+    height: 450px;
+    font-size: 1rem;
+  }
+}
+@media(min-width:728px){
+  textarea{
+    width: 700px;
+    height: 550px;
+    font-size: 1rem;
+  }
+}
+@media(min-width:812px){
+  textarea{
+    width: 780px;
+    height: 550px;
+    font-size: 1rem;
+  }
+}
+@media(min-width:928px){
+  textarea{
+    width: 700px;
+    height: 550px;
+    font-size: 1rem;
+  }
+}
+@media(min-width:1004px){
+  textarea{
+    width: 800px;
+    height: 550px;
+    font-size: 1rem;
+  }
+}
+@media(min-width:1128px){
+  textarea{
+    width: 900px;
+    height: 550px;
+    font-size: 1.8rem;
+  }
+}
+@media(min-width:1280px){
+  textarea{
+    width: 1000px;
+    height: 550px;
+    font-size: 1.8rem;
+  }
+}
