@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       <Grammarly clientId="client_B6f6ozg5b1om4ZWWvzDh6b">
-        <h2>Improve your spelling skills with Us</h2>
+        <h2>Improve Your Spell Writing skills with Us</h2>
       <label htmlFor="title"  >Title</label>
       <GrammarlyEditorPlugin>
         <input id="title" style={{padding:"10px"}}/>
