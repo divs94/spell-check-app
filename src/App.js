@@ -15,6 +15,7 @@ function App() {
             <textarea
               rows={15}
               cols={80}
+              contenteditable="true"
               placeholder="Write something here...!!!"
               style={{
                 borderRadius: "25px",
